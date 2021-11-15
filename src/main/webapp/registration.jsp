@@ -17,5 +17,6 @@
     <input type="password" name = "password" placeholder="Пароль">
     <button>Submit</button>
 </form>
+<p>${requestScope.message}</p>
 </body>
 </html>
